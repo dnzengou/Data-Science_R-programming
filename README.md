@@ -1,4 +1,4 @@
-Data-Science---R-programming
+Data-Science_R-programming
 ============================
 
-John Hopkins University, Bloomberg SChool Of Public Health. Coursera.org
+John Hopkins University, Bloomberg School of Public Health. Coursera.org
